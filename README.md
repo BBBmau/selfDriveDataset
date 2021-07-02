@@ -1,4 +1,4 @@
-# selfDriveDataset
+# Deep Drive Data Set Usage
 A sample of the Berkeley Deep Drive Dataset that shows the how data is organized from video images.
 
 ![Berkeley Logo](logo-v2.png)
